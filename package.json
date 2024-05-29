@@ -1,0 +1,17 @@
+{
+  "name": "slon-api-graphql-template",
+  "version": "1.0.0",
+  "author": "Dmytro Balytskyi <dmytro.balytskyi@gmail.com>",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node src",
+    "dev": "nodemon src"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.1"
+  },
+  "dependencies": {
+    "graphql-yoga": "^5.3.1"
+  }
+}
