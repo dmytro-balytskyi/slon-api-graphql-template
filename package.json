@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "node src",
-    "dev": "nodemon src"
+    "dev": "nodemon -e js,cjs,gql,graphql src"
   },
   "devDependencies": {
     "nodemon": "^3.1.1"
