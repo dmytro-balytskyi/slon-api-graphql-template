@@ -6,7 +6,8 @@
   "private": true,
   "scripts": {
     "start": "node src",
-    "dev": "nodemon -e js,cjs,gql,graphql src"
+    "dev": "nodemon -e js,cjs,gql,graphql src",
+    "patch": "yarn version --patch"
   },
   "devDependencies": {
     "nodemon": "^3.1.1"
