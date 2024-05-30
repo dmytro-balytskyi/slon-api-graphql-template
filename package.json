@@ -1,6 +1,6 @@
 {
   "name": "slon-api-graphql-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Dmytro Balytskyi <dmytro.balytskyi@gmail.com>",
   "type": "module",
   "private": true,
