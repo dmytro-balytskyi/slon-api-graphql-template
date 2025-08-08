@@ -30,3 +30,12 @@ coverage
 *.tsbuildinfo
 
 *storybook.log
+/storybook-static
+
+# Firebase
+firebase*
+.firebase*
+
+# Env
+.env*
+*values.yml
